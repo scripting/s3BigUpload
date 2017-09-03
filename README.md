@@ -12,7 +12,7 @@ So, as I like to do, I prepared a <i>hello world</i> type app that has been test
 
 ### How to
 
-1. Download the folder, open it in your terminal app, cd into the folder.
+1. <a href="https://github.com/scripting/s3BigUpload/archive/master.zip">Download</a> the folder, open it in your terminal app, cd into the folder.
 
 2. Make sure your Amazon credentials are accessible, following the instruction on the AWS site. 
 
@@ -22,7 +22,7 @@ So, as I like to do, I prepared a <i>hello world</i> type app that has been test
 
 ### Questions, comments
 
-Post an issue here. I can't support S3, but if you spot a problem I want to know about it.
+Post an <a href="https://github.com/scripting/s3BigUpload/issues">issue</a> here. I can't support S3, but if you spot a problem I want to know about it.
 
 Dave Winer, September 2017
 
