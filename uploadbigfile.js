@@ -1,6 +1,6 @@
-var myProductName = "s3BigUpload", myVersion = "0.4.0";   
+const myProductName = "s3BigUpload", myVersion = "0.4.0";   
 
-var fs = require ("fs");
+const fs = require ("fs");
 const AWS = require ("aws-sdk");
 const s3 = new AWS.S3 ();
 
