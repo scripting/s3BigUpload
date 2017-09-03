@@ -1,6 +1,6 @@
 # s3BigUpload
 
-S3 can handle streamed uploads, this example shows how, in Node
+S3 can handle streamed uploads, this example shows how, in Node/JavaScript.
 
 ### The story
 
