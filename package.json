@@ -1,0 +1,9 @@
+{
+	"name": "s3BigUpload",
+	"description": "Demo app for streamed uploads to S3 in Node.",
+	"author": "Dave Winer <dave@smallpicture.com>",
+	"main": "uploadbigfile.js",
+	"dependencies" : {
+		"aws-sdk": "*"
+		}
+	}
