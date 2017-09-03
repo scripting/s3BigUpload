@@ -14,7 +14,7 @@ So, as I like to do, I prepared a <i>hello world</i> type app that has been test
 
 1. <a href="https://github.com/scripting/s3BigUpload/archive/master.zip">Download</a> the folder, open it in your terminal app, cd into the folder.
 
-2. Make sure your Amazon credentials are accessible, following the instruction on the AWS site. 
+2. Make sure your Amazon credentials are accessible, following the <a href="http://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-credentials.html">instructions</a> on the AWS site. 
 
 3. Change the value of s3bucket and s3path to point to the location you want the file to be uploaded to.
 
