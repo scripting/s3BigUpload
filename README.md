@@ -6,7 +6,7 @@ S3 can handle streamed uploads, this example shows how, in Node/JavaScript.
 
 I'm working on an app that upstreams files from the user's desktop to a location on S3. 
 
-I wondered if Amazon's API can do streamed uploads, and found that it can, but the example code wasn't complete, and I couldn't get it to correctly upload files. 
+I wondered if Amazon's API can do streamed uploads, and found that it can, but I couldn't get the <a href="https://aws.amazon.com/blogs/developer/announcing-the-amazon-s3-managed-uploader-in-the-aws-sdk-for-javascript/">example code</a> to correctly upload files. I worked on it and this is the result. This worked on my machine. ;-)
 
 So, as I like to do, I prepared a <i>hello world</i> type app that has been tested, and works, and is complete. 
 
