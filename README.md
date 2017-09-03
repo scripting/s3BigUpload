@@ -1,14 +1,14 @@
 # s3BigUpload
 
-S3 can handle streamed uploads, this example shows how, in JavaScript for Node
+S3 can handle streamed uploads, this example shows how, in Node
 
 ### The story
 
 I'm working on an app that upstreams files from the user's desktop to a location on S3. 
 
-I wondered if after all this time, Amazon had given the basic API the ability to handle streamed uploads, and found that they had, but the example code was missing some obvious things, and also didn't work (which was a problem of course). 
+I wondered if Amazon's API can do streamed uploads, and found that it can, but the example code wasn't complete, and I couldn't get it to correctly upload files. 
 
-So, as I like to do, I prepared a hello world type app that has been tested, and works, and is complete. 
+So, as I like to do, I prepared a <i>hello world</i> type app that has been tested, and works, and is complete. 
 
 ### How to
 
