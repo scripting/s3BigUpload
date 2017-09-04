@@ -16,7 +16,7 @@ So, as I like to do, I prepared a <i>hello world</i> type app that has been test
 
 2. Make sure your Amazon credentials are accessible, following the <a href="http://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-credentials.html">instructions</a> on the AWS site. 
 
-3. Change the value of s3bucket and s3path to point to the location you want the file to be uploaded to.
+3. Change the values of localFilePath, filetype, acl, s3bucket and s3path to point to the file you want to upload and the location you want it uploaded to.
 
 4. `node uploadbigfile.js`
 
